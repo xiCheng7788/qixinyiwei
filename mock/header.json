@@ -1,0 +1,22 @@
+{
+    "ref":true,
+    "data":{
+        "listnav":[{
+            "title":"首页",
+            "id":"id1",
+            "url":"/home"
+        },{
+            "title":"产品",
+            "id":"id2",
+            "url":"/home"
+        },{
+            "title":"新闻",
+            "id":"id3",
+            "url":"/new"
+        },{
+            "title":"联系",
+            "id":"id4",
+            "url":"/about"
+        }]
+    }
+}

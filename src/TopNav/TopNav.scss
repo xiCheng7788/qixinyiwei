@@ -1,0 +1,50 @@
+.active{
+    color:red;
+ }
+
+.header{
+    height:306px;
+    background:url(../assets/34ec9fc8.backVideo.jpg) no-repeat 50%;
+ }
+.header-nav{
+    margin:0 auto;
+    line-height:70px;
+    height:70px;
+    max-width:1200px;
+    background:#fff;
+    box-shadow: rgb(238, 238, 238) 0px 2px 2px;
+    border-radius: 0  0 30px 30px; 
+ }
+ .header-list{
+     float:right;
+     li{
+         list-style: none;
+     }
+     .header-item{
+         float:left;
+         width:100px;
+         a{
+             font-size:16px;
+             color:#000;
+         }
+     }
+ }
+ .header-logo{
+    float:left;
+    margin-top:20px;
+}
+.newbody{
+    max-width:1200px;
+    margin:0 auto;
+}
+.header-right{
+    float:right;
+}
+.header-login{
+    float:right;
+    overflow: hidden;
+    line-height:20px;
+    a{
+        color:#000;
+    }
+}
