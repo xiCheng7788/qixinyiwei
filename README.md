@@ -9,7 +9,9 @@ json-server head.js --port 9000
 +mongod --dbpath d:\Data\DB       ------一个窗口启动，打开数据库连接  
 
 +mongo    ---------另一个窗口操作数据库    
-
+    
+    空格空格+回车   ---换行  
+    
 启动react  
 ==================  
 >npm start
