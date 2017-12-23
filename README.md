@@ -11,5 +11,5 @@ json-server head.js --port 9000
 +mongo    ---------另一个窗口操作数据库    
 
 启动react  
-==================  
-npm start
+==================  
+>npm start
